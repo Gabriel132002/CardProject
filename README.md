@@ -4,7 +4,7 @@ My first Flutter project.
 
 ## Getting Started
 
-This project is a starting point for my Flutter career.
+This project is a starting point for my Flutter career it just a layout with a image and a few simple widgets.
 
 A few resources to get you started if this is your first Flutter project:
 
